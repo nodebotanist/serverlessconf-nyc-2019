@@ -141,6 +141,13 @@ We decided to use Web standards to meet the needs of the platform in order to ke
 ---
 ![](./img/Carina_Nebula.jpg)
 
+# Magic Trick:
+## Deploy a static app to serverless
+# With 3 CLI commands
+
+---
+![](./img/Carina_Nebula.jpg)
+
 #[fit] Demo time!
 
 ---
@@ -162,7 +169,7 @@ Creating new serverless architectures from the ground up and allowing users to t
 
 # Want to learn more?
 
-![inline](./img/istanbul.png)
+![inline](./img/nyc.png)
 
 ---
 ![](./img/Carina_Nebula.jpg)
@@ -173,7 +180,7 @@ Creating new serverless architectures from the ground up and allowing users to t
 
 * kas@cloudflare.com
 * @nodebotanist
-* github.com/nodebotanist/serverlessdays-istanbul-2019
+* github.com/nodebotanist/serverlessconf-nyc-2019
 
 
 
